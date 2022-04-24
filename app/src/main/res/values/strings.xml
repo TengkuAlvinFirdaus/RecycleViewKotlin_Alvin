@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleViewKotlin_Alvin</string>
+    <string name="batik_name">batik_name</string>
+    <string name="description">deskripsi</string>
+</resources>
